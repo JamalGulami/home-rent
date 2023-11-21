@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706434463587",
+    "project_id": "jamal-rahnamaei",
+    "storage_bucket": "jamal-rahnamaei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706434463587:android:95178c011f54aa16878556",
+        "android_client_info": {
+          "package_name": "com.jamalapp.jamal_rahnamaie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmGHLO-vaP7tCiRDPVQS7gMJUEekH6Jjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
